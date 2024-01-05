@@ -1,7 +1,8 @@
 repo_name: mollypi/gcsfuse-win
 report_id: 510d4d4c0d1bbe945c24dfd9d5191566
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-15T05:31:29+00:00'
+timestamp: '2024-01-05T08:41:56+00:00'
 requested_by: weswu8
 provider: github
 branch: master
@@ -17,7 +18,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png
-  detection_source_url: gcsfuse-win/gcsfuse-win.csproj
+  detection_source_url: https://github.com/mollypi/gcsfuse-win/blob/master/gcsfuse-win/gcsfuse-win.csproj
   detection_source: gcsfuse-win/gcsfuse-win.csproj
   last_updated_by: Wesley Wu
   last_updated_on: 2020-05-02 14:28:37.000000000 Z
@@ -30,6 +31,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/mollypi/gcsfuse-win
   detection_source: Repo Metadata
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -41,6 +43,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/mollypi/gcsfuse-win/blob/master/gcsfuse-win/packages.config
   detection_source: gcsfuse-win/packages.config
   last_updated_by: Wesley Wu
   last_updated_on: 2020-05-02 14:28:37.000000000 Z
@@ -52,6 +55,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Serialization Frameworks
   image_url: https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png
+  detection_source_url: https://github.com/mollypi/gcsfuse-win/blob/master/gcsfuse-win/packages.config
   detection_source: gcsfuse-win/packages.config
   last_updated_by: Wesley Wu
   last_updated_on: 2020-05-02 14:28:37.000000000 Z
@@ -63,6 +67,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/mollypi/gcsfuse-win
   detection_source: Repo Metadata
 - name: NuGet
   description: The package manager for .NET
@@ -72,6 +77,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/mollypi/gcsfuse-win/blob/master/gcsfuse-win/packages.config
   detection_source: gcsfuse-win/packages.config
   last_updated_by: Wesley Wu
   last_updated_on: 2020-05-02 14:28:37.000000000 Z
@@ -84,6 +90,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/mollypi/gcsfuse-win/blob/master/gcsfuse-win.sln
   detection_source: gcsfuse-win.sln
   last_updated_by: Wesley Wu
   last_updated_on: 2020-05-02 14:28:37.000000000 Z
@@ -97,7 +104,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13893/default_12c355ecd1469432782d9a53a6225a499e793b39.png
-  detection_source_url: gcsfuse-win/packages.config
+  detection_source_url: https://github.com/mollypi/gcsfuse-win/blob/master/gcsfuse-win/packages.config
   detection_source: gcsfuse-win/packages.config
   last_updated_by: Wesley Wu
   last_updated_on: 2020-05-02 14:28:37.000000000 Z
@@ -111,7 +118,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/14566/default_8cc049a431381a977f6d2527a0530d69d5056b9a.png
-  detection_source_url: gcsfuse-win/packages.config
+  detection_source_url: https://github.com/mollypi/gcsfuse-win/blob/master/gcsfuse-win/packages.config
   detection_source: gcsfuse-win/packages.config
   last_updated_by: Wesley Wu
   last_updated_on: 2020-05-02 14:28:37.000000000 Z
@@ -126,7 +133,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12980/default_54d470a1e19c265eb229b6bd88965fb8df9f9f78.png
-  detection_source_url: gcsfuse-win/packages.config
+  detection_source_url: https://github.com/mollypi/gcsfuse-win/blob/master/gcsfuse-win/packages.config
   detection_source: gcsfuse-win/packages.config
   last_updated_by: Wesley Wu
   last_updated_on: 2020-05-02 14:28:37.000000000 Z
@@ -141,7 +148,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12984/default_971bb108ce002c2032e407a9046135e1542c46c7.png
-  detection_source_url: gcsfuse-win/packages.config
+  detection_source_url: https://github.com/mollypi/gcsfuse-win/blob/master/gcsfuse-win/packages.config
   detection_source: gcsfuse-win/packages.config
   last_updated_by: Wesley Wu
   last_updated_on: 2020-05-02 14:28:37.000000000 Z
@@ -156,7 +163,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13813/default_e637dea816bab62ca037ba8b354e359bd6438b40.png
-  detection_source_url: gcsfuse-win/packages.config
+  detection_source_url: https://github.com/mollypi/gcsfuse-win/blob/master/gcsfuse-win/packages.config
   detection_source: gcsfuse-win/packages.config
   last_updated_by: Wesley Wu
   last_updated_on: 2020-05-02 14:28:37.000000000 Z
@@ -171,7 +178,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/14270/default_e40532219ac3f0023549c68e09bf9f4d1a102150.png
-  detection_source_url: gcsfuse-win/packages.config
+  detection_source_url: https://github.com/mollypi/gcsfuse-win/blob/master/gcsfuse-win/packages.config
   detection_source: gcsfuse-win/packages.config
   last_updated_by: Wesley Wu
   last_updated_on: 2020-05-02 14:28:37.000000000 Z
@@ -186,7 +193,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12977/default_54d470a1e19c265eb229b6bd88965fb8df9f9f78.png
-  detection_source_url: gcsfuse-win/packages.config
+  detection_source_url: https://github.com/mollypi/gcsfuse-win/blob/master/gcsfuse-win/packages.config
   detection_source: gcsfuse-win/packages.config
   last_updated_by: Wesley Wu
   last_updated_on: 2020-05-02 14:28:37.000000000 Z
@@ -208,7 +215,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13612/default_8262e69d511886f07f1af08ca996ce9684bb574b.png
-  detection_source_url: gcsfuse-win/packages.config
+  detection_source_url: https://github.com/mollypi/gcsfuse-win/blob/master/gcsfuse-win/packages.config
   detection_source: gcsfuse-win/packages.config
   last_updated_by: Wesley Wu
   last_updated_on: 2020-05-02 14:28:37.000000000 Z
@@ -222,13 +229,19 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/nuget/image.png
-  detection_source_url: gcsfuse-win/packages.config
+  detection_source_url: https://github.com/mollypi/gcsfuse-win/blob/master/gcsfuse-win/packages.config
   detection_source: gcsfuse-win/packages.config
   last_updated_by: Wesley Wu
   last_updated_on: 2020-05-02 14:28:37.000000000 Z
   vulnerabilities:
-  - name: Improper Handling of Exceptional Conditions in Newtonsoft.Json
+  - name: 'Duplicate Advisory: Improper Handling of Exceptional Conditions in Newtonsoft.Json'
     cve_id: 
+    cve_url: https://github.com/advisories/GHSA-8rfx-6mr3-5jh3
+    detected_date: Jan 4
+    severity: high
+    first_patched: 13.0.1
+  - name: Improper Handling of Exceptional Conditions in Newtonsoft.Json
+    cve_id: CVE-2024-21907
     cve_url: https://github.com/advisories/GHSA-5crp-9r3c-p9vr
     detected_date: Jun 23
     severity: high
@@ -243,7 +256,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13038/default_a0b0eac5a401515996bd8fc359ffcfbc844cbe90.png
-  detection_source_url: gcsfuse-win/packages.config
+  detection_source_url: https://github.com/mollypi/gcsfuse-win/blob/master/gcsfuse-win/packages.config
   detection_source: gcsfuse-win/packages.config
   last_updated_by: Wesley Wu
   last_updated_on: 2020-05-02 14:28:37.000000000 Z
@@ -256,7 +269,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12974/default_d871263d8798790404638a4d3692cc70b6389166.png
-  detection_source_url: gcsfuse-win/packages.config
+  detection_source_url: https://github.com/mollypi/gcsfuse-win/blob/master/gcsfuse-win/packages.config
   detection_source: gcsfuse-win/packages.config
   last_updated_by: Wesley Wu
   last_updated_on: 2020-05-02 14:28:37.000000000 Z
@@ -270,7 +283,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13087/default_1b8be57b16f1f491c0e5f67e5d1021f4df68ea30.png
-  detection_source_url: gcsfuse-win/packages.config
+  detection_source_url: https://github.com/mollypi/gcsfuse-win/blob/master/gcsfuse-win/packages.config
   detection_source: gcsfuse-win/packages.config
   last_updated_by: Wesley Wu
   last_updated_on: 2020-05-02 14:28:37.000000000 Z
@@ -284,7 +297,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12998/default_aa8a6e377c22dbeff795489a5ab127b1d597b5ed.png
-  detection_source_url: gcsfuse-win/packages.config
+  detection_source_url: https://github.com/mollypi/gcsfuse-win/blob/master/gcsfuse-win/packages.config
   detection_source: gcsfuse-win/packages.config
   last_updated_by: Wesley Wu
   last_updated_on: 2020-05-02 14:28:37.000000000 Z
